@@ -1,12 +1,11 @@
 
-<?php echo "athila" ;?> 
-<?php echo "athila" ;?> 
-<?php echo "athila" ;?> 
-<?php echo "athila" ;?> 
+<?php 
 
-<?php echo "athila" ;?> 
-<?php echo "athila" ;?> 
-<?php echo "athila" ;?> 
-<?php echo "athila" ;?> 
+$nome = "Hcode";
 
-<var></var>
+
+
+echo $nome ;
+
+
+?> 
